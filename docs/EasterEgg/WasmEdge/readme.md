@@ -1,2 +1,2 @@
 
-# InternLM+WasmEdge 部署智能体事件
+# InternLM+WasmEdge 部署智能体实践
